@@ -15,7 +15,10 @@ Our best model significantly outperforms classical methods.
 ## 📂 Repository Contents
 ```
 song_genre_classification_GTZAN_dataset.ipynb  # Main Jupyter notebook
-PSV_article_Stirbu_Stefan.docx                 # Full project report (paper)
+features_3_sec.csv                             # File that contains 3-second audio samples with 58 extracted features and genre labels.
+features_30_sec.csv                            # File that contains 30-second audio samples with 58 extracted features and genre labels.
+song_names.txt                                 # Text file containing the paths to audio files used for testing
+.mp3 files                                     # The audio files used for testing
 ```
 
 ---
