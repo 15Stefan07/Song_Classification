@@ -1,0 +1,10 @@
+keras
+scikit-learn
+matplotlib
+csv
+ipython
+librosa
+numpy
+pandas
+scipy
+tensorflow
