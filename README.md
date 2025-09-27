@@ -25,10 +25,16 @@ song_names.txt                                 # Text file containing the paths 
 
 ## 🛠️ Requirements
 - Python 3.8+
-- TensorFlow / Keras
-- NumPy, Pandas, Scikit-learn
-- Matplotlib, Seaborn
+- Keras
+- Scikit-learn
+- Matplotlib
+- Csv
+- Ipython
 - Librosa
+- Numpy
+- Pandas
+- Scipy
+- TensorFlow
 
 Install dependencies:
 ```bash
