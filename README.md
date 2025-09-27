@@ -87,11 +87,6 @@ The notebook includes utilities to:
 
 ---
 
-## 📜 License
-MIT License  
-
----
-
 ## 📚 References
 - Tzanetakis, G., & Cook, P. (2002). *Musical genre classification of audio signals*.  
 - Sahil Poonia et al. (2022). *Music Genre Classification using Machine Learning: A Comparative Study*.  
