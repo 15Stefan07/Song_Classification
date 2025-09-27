@@ -89,6 +89,3 @@ The project uses the **GTZAN dataset** with 10 genres:
 - Perform hyperparameter tuning & cross-validation  
 - Expand dataset with more diverse audio tracks  
 - Integrate into a **Spotify recommendation system**  
-
-## License  
-MIT License. See [LICENSE](LICENSE) for details.  
